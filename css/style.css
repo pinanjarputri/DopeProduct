@@ -21,11 +21,11 @@ Inside media queries 1em is always 16px i.e 1em = 16px at every screen size only
   font-family: inherit; }
 
 html {
-  font-size: 35.5%;
+  font-size: 45.5%;
   scroll-behavior: smooth; }
   @media only screen and (max-width: 75em) {
     html {
-      font-size: 49%; } }
+      font-size: 55%; } }
   @media only screen and (max-width: 56.25em) {
     html {
       font-size: 56%; } }
